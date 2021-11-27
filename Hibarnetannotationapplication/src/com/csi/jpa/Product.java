@@ -3,7 +3,7 @@ package com.csi.jpa;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-
+//welcome to csi
 @Entity
 public class Product {
 
